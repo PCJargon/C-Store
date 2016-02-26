@@ -1,0 +1,35 @@
+Jared Hafer
+10/05/15
+Lab 3
+
+1. What are the names of the parts of a UNIX command? List them, and give a brief description of each.
+
+The parts of a UNIX command are the Name, Options, Filenames, and arguments.
+
+Name: The name of the application being run.
+
+Options: Additional modifier, sometimes required for certain applications. Starts with a "-".
+
+Filenames: Some commands will open, read, write, create, and/or move files that must be specified in the command.
+
+Arguments: Pieces of information that UNIX commands sometimes need in order to output correctly. Sometimes if not used a default result will be displayed, or the command will fail to run.
+
+
+2. Can multiple UNIX commands be typed on the same single command line? Explain how.
+
+Using a | (pipe) you can have two different commands execute within the same command line. Enter the first command, space, pipe, space, and then the second command. The first command will carry over restuls to, or be modified by, the second command entered.
+
+
+3. Write names of the main hardware components of a contemporary computer system.
+
+The primary hardware componenets for a contemporary computer system are; motherboard, CPU, RAM, power supply, hard drive/storage, and video card (if not included with motherboard/CPU).
+
+
+4. What system was the immediate predecessor of UNIX? Where was this predecessor and UNIX itself initially developed, and by whom?
+
+The predecessor to UNIX was a failed venture known as Multics. UNIX and Multics were originally developed by Bell Labs, MIT, and General Electric. The final programmers at Bell Labs to stop working on Multics (Ken Thompson, Dennis Ritchie, M.D. Mcllroy, and J.F. Ossanna) began work on a simplified version of Multics, which became UNIX.
+
+
+5. Where did the three main branches of UNIX development take birth? Name two systems from the commercial branch and one from the academic branch of UNIX development.
+
+The original branches of UNIX began at University of California (Berkeley), Microsoft, IBM, and Sun Microsystems.
